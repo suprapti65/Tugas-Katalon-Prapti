@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>phone images</name>
+   <tag></tag>
+   <elementGuidId>5d5b7159-32af-4fe6-9e70-650c5213a776</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tbodyid']/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.card-img-top.img-fluid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>350ae3d5-3ded-4fd8-a85d-0c33a09fd28e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-img-top img-fluid</value>
+      <webElementGuid>fc99fc96-51c7-4995-9609-8611ee49664a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>imgs/galaxy_s6.jpg</value>
+      <webElementGuid>f09a7020-c03e-4200-936a-902f1892360a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbodyid&quot;)/div[@class=&quot;col-lg-4 col-md-6 mb-4&quot;]/div[@class=&quot;card h-100&quot;]/a[1]/img[@class=&quot;card-img-top img-fluid&quot;]</value>
+      <webElementGuid>feab2e8e-f0b0-4a66-81a3-cc3f0e82f02b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tbodyid']/div/div/a/img</value>
+      <webElementGuid>1382ea86-41bf-42d8-afcc-bc413c330e2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/img</value>
+      <webElementGuid>520f74de-31a1-4307-b996-3a3c9c0d1bb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'imgs/galaxy_s6.jpg']</value>
+      <webElementGuid>0eab747d-08a9-4ac1-aba4-b621deae4b3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

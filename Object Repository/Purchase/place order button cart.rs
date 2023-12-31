@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>place order button cart</name>
+   <tag></tag>
+   <elementGuidId>523b0d26-80a3-483e-8390-50dc4b72361f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>.btn-success</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.btn-success</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.btn-success</value>
+      <webElementGuid>62c9316c-84b0-4897-9c29-3d6339b51540</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

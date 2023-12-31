@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_OK</name>
+   <tag></tag>
+   <elementGuidId>0b69f4ce-4b23-4429-ba81-4d073599f5c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[7]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.confirm.btn.btn-lg.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>704434a8-c168-4986-9903-9ea60a468ea9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>confirm btn btn-lg btn-primary</value>
+      <webElementGuid>2eec17eb-fd31-4d85-8f62-34fe830ea56b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>5776877f-7c36-4f04-b462-bcd7776f9ca9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OK</value>
+      <webElementGuid>bb53780e-089e-48e6-854f-ee3cf31d07b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open stop-scrolling&quot;]/div[@class=&quot;sweet-alert  showSweetAlert visible&quot;]/div[@class=&quot;sa-button-container&quot;]/div[@class=&quot;sa-confirm-button-container&quot;]/button[@class=&quot;confirm btn btn-lg btn-primary&quot;]</value>
+      <webElementGuid>7ca200d7-dae8-4d61-b3e4-e7e398fb0f5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/button</value>
+      <webElementGuid>217d0c73-9a44-4cfc-9da3-037813b81a51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'OK' or . = 'OK')]</value>
+      <webElementGuid>c3300b26-1749-4bcd-b03b-322da47a0f7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
